@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name               = 'quijotipsum_api'
-  s.homepage           = 'http://github.com/vicentereig/quijotipsum-api'
+  s.homepage           = 'http://github.com/vicentereig/quijotipsum_api'
   s.platform           = Gem::Platform::RUBY
-  s.version            = '0.1'
+  s.version            = '0.2'
   s.summary            = 'An Interface to Quijotipsum.com written in Ruby. It provides an API and a command line command.'
   s.require_paths      = %w[lib]
   s.author             = "Vicente Reig Rincón de Arellano"
